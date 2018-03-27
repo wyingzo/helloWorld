@@ -1,2 +1,2 @@
 # helloWorld
-myFirst
+# I'm a newcomer， come on!
